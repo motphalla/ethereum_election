@@ -9,3 +9,9 @@ Ganache: https://www.trufflesuite.com/ganache
 Metamask: https://metamask.io/
 
 command: truffle unbox pet-shop
+truffle console
+Election.deployed().then(function(instance){ app = instance })
+app.address 
+app.candidate()
+truffle migrate --reset 
+
