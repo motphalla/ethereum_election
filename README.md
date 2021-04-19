@@ -14,4 +14,4 @@ Election.deployed().then(function(instance){ app = instance })
 app.address 
 app.candidate()
 truffle migrate --reset 
-
+npm run dev
