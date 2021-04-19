@@ -7,3 +7,5 @@ NPM: https://nodejs.org
 Truffle: https://www.trufflesuite.com/truffle
 Ganache: https://www.trufflesuite.com/ganache
 Metamask: https://metamask.io/
+
+command: truffle unbox pet-shop
